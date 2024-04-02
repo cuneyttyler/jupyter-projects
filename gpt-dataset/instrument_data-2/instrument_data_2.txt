@@ -1,0 +1,10 @@
+Guitar is not similar to piano.
+Piano is not similar to violin.
+Violin is not similar to piano.
+Flute is not similar to guitar.
+Clarinet is not similar to flute.
+Harpsichord is not similar to guitar.
+Piccolo is not similar to piano.
+Piano is not similar to saxophone.
+Viola is not similar to harpsichord.
+Lute is not similar to Clarinet.

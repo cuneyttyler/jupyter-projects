@@ -1,0 +1,200 @@
+Guitar is similar to lute.
+Piano is similar to keyboard.
+Violin is similar to viola.
+Flute is similar to piccolo.
+Saxophone is similar to clarinet.
+Trumpet is similar to trombone.
+Drum is similar to tambourine.
+Harp is similar to lyre.
+Cello is similar to double bass.
+Banjo is similar to mandolin.
+Ukulele is similar to guitar.
+Viola is similar to violin.
+Bassoon is similar to oboe.
+French horn is similar to trumpet.
+Accordion is similar to concertina.
+Bagpipe is similar to chanter.
+Xylophone is similar to marimba.
+Tuba is similar to sousaphone.
+Balalaika is similar to domra.
+Recorder is similar to flute.
+Mandolin is similar to lute.
+Piccolo is similar to flute.
+Harpsichord is similar to piano.
+Bass guitar is similar to double bass.
+Sitar is similar to oud.
+Dulcimer is similar to zither.
+Cymbals are similar to gongs.
+Tambourine is similar to frame drum.
+Glockenspiel is similar to xylophone.
+Theremin is similar to synthesizer.
+Accordion is similar to bandoneon.
+Clarinet is similar to saxophone.
+Recorder is similar to piccolo.
+Trombone is similar to tuba.
+Harp is similar to koto.
+Bagpipe is similar to hurdy-gurdy.
+Cello is similar to viola da gamba.
+Bass drum is similar to timpani.
+Gong is similar to tam-tam.
+Triangle is similar to cowbell.
+Banjo is similar to mandolin.
+Organ is similar to harmonium.
+Violin is similar to cello.
+Maracas are similar to shakers.
+Keyboard is similar to synthesizer.
+Xylophone is similar to vibraphone.
+Flute is similar to recorder.
+Accordion is similar to melodeon.
+Piccolo is similar to fife.
+Sitar is similar to tambura.
+Bagpipe is similar to uilleann pipes.
+Harp is similar to lyre.
+Drum kit is similar to percussion.
+Tambourine is similar to pandeiro.
+Triangle is similar to bell.
+Theremin is similar to ondes Martenot.
+Banjo is similar to ukulele.
+Bass guitar is similar to electric guitar.
+Flute is similar to ocarina.
+Accordion is similar to bayan.
+Clarinet is similar to bassoon.
+Harmonica is similar to melodica.
+Marimba is similar to xylophone.
+Violin is similar to viola.
+Saxophone is similar to trumpet.
+Ukulele is similar to banjo.
+Oboe is similar to English horn.
+Harpsichord is similar to clavichord.
+Balalaika is similar to mandolin.
+Didgeridoo is similar to yidaki.
+Dulcimer is similar to psaltery.
+Bass drum is similar to kick drum.
+Glockenspiel is similar to celesta.
+Tambourine is similar to maraca.
+Recorder is similar to whistle.
+Bagpipe is similar to Scottish smallpipes.
+Harp is similar to psaltery.
+Piano is similar to keyboard.
+Guitar is similar to ukulele.
+Violin is similar to fiddle.
+Saxophone is similar to clarinet.
+Accordion is similar to concertina.
+Flute is similar to piccolo.
+Trombone is similar to trumpet.
+Cello is similar to double bass.
+Banjo is similar to mandolin.
+Marimba is similar to xylophone.
+Glockenspiel is similar to vibraphone.
+Harpsichord is similar to spinet.
+Bagpipe is similar to uilleann pipes.
+Oboe is similar to bassoon.
+Triangle is similar to cowbell.
+Sitar is similar to lute.
+Clarinet is similar to bass clarinet.
+Bass guitar is similar to electric bass.
+Tambourine is similar to frame drum.
+Violin is similar to viola.
+Accordion is similar to bayan.
+Flute is similar to pan flute.
+Guitar is similar to bass guitar.
+Saxophone is similar to flute.
+Cello is similar to double bass.
+Violin is similar to viola.
+Guitar is similar to banjo.
+Piano is similar to harpsichord.
+Drum set is similar to percussion.
+Trumpet is similar to trombone.
+Accordion is similar to harmonica.
+Ukulele is similar to guitar.
+Marimba is similar to xylophone.
+Clarinet is similar to oboe.
+Flute is similar to piccolo.
+Bassoon is similar to contrabassoon.
+Organ is similar to keyboard.
+Harp is similar to lyre.
+Tambourine is similar to maraca.
+Bagpipe is similar to hurdy-gurdy.
+Violin is similar to fiddle.
+Guitar is similar to mandolin.
+Piano is similar to synthesizer.
+Saxophone is similar to clarinet.
+Cello is similar to bass guitar.
+Trumpet is similar to French horn.
+Accordion is similar to concertina.
+Ukulele is similar to banjo.
+Marimba is similar to vibraphone.
+Flute is similar to recorder.
+Drum set is similar to snare drum.
+Violin is similar to cello.
+Guitar is similar to ukulele.
+Piano is similar to organ.
+Saxophone is similar to trumpet.
+Clarinet is similar to bass clarinet.
+Accordion is similar to melodeon.
+Ukulele is similar to mandolin.
+Marimba is similar to glockenspiel.
+Flute is similar to ocarina.
+Drum set is similar to bass drum.
+Violin is similar to viola.
+Guitar is similar to bass guitar.
+Piano is similar to keyboard.
+Saxophone is similar to clarinet.
+Cello is similar to double bass.
+Trumpet is similar to trombone.
+Accordion is similar to concertina.
+Ukulele is similar to banjo.
+Marimba is similar to xylophone.
+Flute is similar to piccolo.
+Drum set is similar to percussion.
+Violin is similar to fiddle.
+Guitar is similar to lute.
+Piano is similar to keyboard.
+Violin is similar to viola.
+Flute is similar to piccolo.
+Saxophone is similar to clarinet.
+Trumpet is similar to trombone.
+Drum set is similar to percussion.
+Accordion is similar to concertina.
+Ukulele is similar to banjo.
+Marimba is similar to xylophone.
+Clarinet is similar to oboe.
+Harp is similar to lyre.
+Tambourine is similar to maraca.
+Bagpipe is similar to chanter.
+Bassoon is similar to contrabassoon.
+Organ is similar to harmonium.
+Bass guitar is similar to double bass.
+Mandolin is similar to balalaika.
+Cello is similar to bass guitar.
+Violin is similar to viola.
+Guitar is similar to ukulele.
+Piano is similar to keyboard.
+Saxophone is similar to trumpet.
+Flute is similar to recorder.
+Accordion is similar to melodeon.
+Ukulele is similar to mandolin.
+Marimba is similar to vibraphone.
+Drum set is similar to snare drum.
+Clarinet is similar to bass clarinet.
+Harp is similar to koto.
+Trumpet is similar to French horn.
+Bagpipe is similar to uilleann pipes.
+Violin is similar to fiddle.
+Guitar is similar to banjo.
+Piano is similar to synthesizer.
+Saxophone is similar to clarinet.
+Flute is similar to piccolo.
+Accordion is similar to bayan.
+Ukulele is similar to guitar.
+Marimba is similar to glockenspiel.
+Drum set is similar to bass drum.
+Cello is similar to double bass.
+Violin is similar to cello.
+Guitar is similar to bass guitar.
+Piano is similar to harpsichord.
+Saxophone is similar to flute.
+Clarinet is similar to oboe.
+Accordion is similar to bandoneon.
+Ukulele is similar to banjo.
+Marimba is similar to xylophone.

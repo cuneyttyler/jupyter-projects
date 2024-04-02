@@ -1,0 +1,7 @@
+keys
+pedals
+vehicle
+wheels
+baggage
+trunk
+part

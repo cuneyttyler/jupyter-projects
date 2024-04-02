@@ -1,0 +1,10 @@
+Guitar is similar to lute.
+Piano is similar to harpsichord.
+Violin is similar to viola.
+Flute is similar to piccolo.
+Clarinet is similar to saxophone.
+Lute is similar to guitar.
+Harpsichord is similar to piano.
+Viola is similar to violin.
+Piccolo is similar to flute.
+Saxophone is similar to Clarinet.

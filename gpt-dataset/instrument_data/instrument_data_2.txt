@@ -1,0 +1,148 @@
+Guitar is not similar to piano.
+Violin is not similar to trumpet.
+Flute is not similar to drums.
+Saxophone is not similar to harp.
+Clarinet is not similar to accordion.
+Ukulele is not similar to marimba.
+Bass guitar is not similar to xylophone.
+Mandolin is not similar to piccolo.
+Recorder is not similar to synthesizer
+Harp is not similar to vibraphone.
+Xylophone is not similar to timpani.
+Lyre is not similar to harpsichord.
+Triangle is not similar to marimba.
+Celesta is not similar to xylophone.
+Djembe is not similar to conga.
+Cello is not similar to double bass.
+Violin is not similar to viola.
+Clarinet is not similar to flute.
+Trombone is not similar to trumpet.
+Saxophone is not similar to clarinet.
+Banjo is not similar to mandolin.
+Harp is not similar to guitar.
+Piano is not similar to organ.
+Oboe is not similar to bassoon.
+Bass guitar is not similar to electric guitar.
+Accordion is not similar to harmonica.
+Marimba is not similar to vibraphone.
+Flute is not similar to piccolo.
+Triangle is not similar to tambourine.
+Timpani is not similar to xylophone.
+Didgeridoo is not similar to trumpet.
+Violin is not similar to guitar.
+Piano is not similar to accordion.
+Harp is not similar to harpsichord.
+Drum set is not similar to guitar.
+Marimba is not similar to drums.
+Flute is not similar to trombone.
+Guitar is not similar to drums.
+Piano is not similar to guitar.
+Banjo is not similar to trumpet.
+Harmonica is not similar to saxophone.
+Harp is not similar to accordion.
+Xylophone is not similar to piano.
+Cymbals are not similar to marimba.
+Triangle is not similar to tambourine.
+Bagpipe is not similar to clarinet.
+Accordion is not similar to harmonica.
+Trumpet is not similar to tuba.
+Ukulele is not similar to banjo.
+Bass guitar is not similar to double bass.
+Piano is not similar to violin.
+Flute is not similar to saxophone.
+Harp is not similar to drum set.
+Guitar is not similar to accordion.
+Trombone is not similar to marimba.
+Ukulele is not similar to harmonica.
+Cello is not similar to banjo.
+Bass guitar is not similar to piccolo.
+Oboe is not similar to xylophone.
+Bagpipe is not similar to double bass.
+Trumpet is not similar to guitar.
+Accordion is not similar to viola.
+Violin is not similar to harmonica.
+Saxophone is not similar to piano.
+Clarinet is not similar to drum set.
+Harp is not similar to banjo.
+Flute is not similar to bass guitar.
+Guitar is not similar to marimba.
+Piano is not similar to accordion.
+Trombone is not similar to piccolo.
+Ukulele is not similar to saxophone.
+Cello is not similar to trumpet.
+Bass guitar is not similar to violin.
+Oboe is not similar to harmonica.
+Bagpipe is not similar to guitar.
+Trumpet is not similar to drum set.
+Accordion is not similar to banjo.
+Violin is not similar to bass guitar.
+Saxophone is not similar to marimba.
+Clarinet is not similar to accordion.
+Harp is not similar to piccolo.
+Flute is not similar to xylophone.
+Guitar is not similar to double bass.
+Piano is not similar to trumpet.
+Trombone is not similar to banjo.
+Ukulele is not similar to bass guitar.
+Cello is not similar to marimba.
+Bass guitar is not similar to piano.
+Oboe is not similar to accordion.
+Bagpipe is not similar to saxophone.
+Trumpet is not similar to clarinet.
+Accordion is not similar to drum set.
+Violin is not similar to banjo.
+Saxophone is not similar to bass guitar.
+Clarinet is not similar to marimba.
+Harp is not similar to accordion.
+Flute is not similar to piccolo.
+Guitar is not similar to xylophone.
+Piano is not similar to double bass.
+Trombone is not similar to guitar.
+Ukulele is not similar to violin.
+Cello is not similar to harmonica.
+Bass guitar is not similar to piano.
+Oboe is not similar to drum set.
+Bagpipe is not similar to banjo.
+Trumpet is not similar to bass guitar.
+Accordion is not similar to marimba.
+Violin is not similar to accordion.
+Saxophone is not similar to piccolo.
+Clarinet is not similar to xylophone.
+Harp is not similar to double bass.
+Flute is not similar to guitar.
+Guitar is not similar to trombone.
+Piano is not similar to banjo.
+Trombone is not similar to harmonica.
+Ukulele is not similar to piano.
+Cello is not similar to saxophone.
+Bass guitar is not similar to clarinet.
+Oboe is not similar to drum set.
+Bagpipe is not similar to marimba.
+Trumpet is not similar to accordion.
+Accordion is not similar to violin.
+Violin is not similar to piccolo.
+Saxophone is not similar to xylophone.
+Clarinet is not similar to double bass.
+Harp is not similar to guitar.
+Flute is not similar to banjo.
+Guitar is not similar to bass guitar.
+Piano is not similar to marimba.
+Trombone is not similar to accordion.
+Ukulele is not similar to harmonica.
+Cello is not similar to piano.
+Bass guitar is not similar to drum set.
+Oboe is not similar to banjo.
+Bagpipe is not similar to bass guitar.
+Trumpet is not similar to marimba.
+Accordion is not similar to piccolo.
+Violin is not similar to xylophone.
+Saxophone is not similar to double bass.
+Clarinet is not similar to guitar.
+Harp is not similar to trombone.
+Flute is not similar to accordion.
+Guitar is not similar to violin.
+Piano is not similar to saxophone.
+Trombone is not similar to piccolo.
+Ukulele is not similar to xylophone.
+Bass guitar is not similar to accordion.
+Oboe is not similar to banjo.

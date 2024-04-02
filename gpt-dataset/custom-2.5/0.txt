@@ -1,0 +1,10 @@
+What is a guitar? Instrument.
+What is a violin? Instrument.
+What is a piano? Instrument.
+What does a guitar have? Neck.
+What does a guitar have? Strings.
+What does a violin have? Neck.
+What does a violin have? Strings.
+What does a trombone have? Bell.
+What does a trombone have? Slide.
+
