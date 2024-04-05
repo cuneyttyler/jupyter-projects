@@ -1,0 +1,10 @@
+keys
+pedals
+vehicle
+wheels
+baggage
+trunk
+part
+instrument
+truck
+car
